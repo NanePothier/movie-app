@@ -1,0 +1,12 @@
+.tile {
+  width: 43rem;
+  height: 12rem;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 4px 5px 4px lightgrey;
+  margin: 1rem 0;
+  background-color: white;
+}
